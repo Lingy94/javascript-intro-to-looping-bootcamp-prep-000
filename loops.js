@@ -5,9 +5,14 @@ for (var i = 0; i < 25; i++){
   }
     else {
     array.push(`I am ${i} strange loops.`)}
+<<<<<<< HEAD
     
 }
 return array
+=======
+    return array
+}
+>>>>>>> 3f94c3d3edeb558e3616066d9606e9af7f02b343
 }
 
 
